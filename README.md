@@ -40,7 +40,7 @@ Prerequisites:
 
 ```sudo apt-get install libcurl4-gnutls-dev libopenssl-ruby libxml2 libxml2-dev libxslt1-dev ruby-dev```
 
-```git clone https://github.com/wpscanteam/wpscan.git```
+```git clone https://github.com/dgvigil/wpscan.git```
 
 ```cd wpscan```
 
@@ -50,7 +50,7 @@ Prerequisites:
 
 ```sudo yum install libcurl-devel```
 
-```git clone https://github.com/wpscanteam/wpscan.git```
+```git clone https://github.com/dgvigil/wpscan.git```
 
 ```cd wpscan```
 
@@ -62,7 +62,7 @@ Prerequisites:
 
 ```pacman -Syu libyaml```
 
-```git clone https://github.com/wpscanteam/wpscan.git```
+```git clone https://github.com/dgvigil/wpscan.git```
 
 ```cd wpscan```
 
@@ -74,7 +74,7 @@ Prerequisites:
 
 *Installing on Mac OSX:*
 
-```git clone https://github.com/wpscanteam/wpscan.git```
+```git clone https://github.com/dgvigil/wpscan.git```
 
 ```cd wpscan```
 
@@ -122,7 +122,7 @@ Prerequisites:
 
       And select your ruby version
 
-      See https://github.com/wpscanteam/wpscan/issues/148
+      See https://github.com/dgvigil/wpscan/issues/148
 
 #### WPSCAN ARGUMENTS
 
@@ -229,11 +229,11 @@ www.wpscan.org
 
 #### GIT REPOSITORY
 
-https://github.com/wpscanteam/wpscan
+https://github.com/dgvigil/wpscan
 
 #### ISSUES
 
-https://github.com/wpscanteam/wpscan/issues
+https://github.com/dgvigil/wpscan/issues
 
 #### SPONSOR
 

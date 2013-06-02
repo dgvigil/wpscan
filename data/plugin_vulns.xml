@@ -3911,7 +3911,7 @@
   <plugin name="php-shell">
     <vulnerability>
       <title>PHP Shell Plugin</title>
-      <reference>https://github.com/wpscanteam/wpscan/issues/138</reference>
+      <reference>https://github.com/dgvigil/wpscan/issues/138</reference>
       <reference>http://plugins.svn.wordpress.org/php-shell/trunk/shell.php</reference>
       <type>RCE</type>
     </vulnerability>
@@ -4444,7 +4444,7 @@
   <plugin name="wp-cleanfix">
     <vulnerability>
       <title>CVE-2013-2108|CVE-2013-2109: wp-cleanfix Remote Command Execution and CSRF</title>
-      <reference>https://github.com/wpscanteam/wpscan/issues/186</reference>
+      <reference>https://github.com/dgvigil/wpscan/issues/186</reference>
       <reference>http://wordpress.org/support/topic/plugin-wp-cleanfix-remote-code-execution-warning</reference>
       <type>RCE</type>
     </vulnerability>

@@ -5,7 +5,7 @@ require 'common/updater/updater'
 class SvnUpdater < Updater
 
   REVISION_PATTERN = /revision="(\d+)"/i
-  TRUNK_URL        = 'https://github.com/wpscanteam/wpscan'
+  TRUNK_URL        = 'https://github.com/dgvigil/wpscan'
 
   def is_installed?
     %x[svn info "#@repo_directory" --xml 2>&1] =~ /revision=/ ? true : false
